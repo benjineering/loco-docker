@@ -1,5 +1,5 @@
 ## Loco-Docker
-### Docker files for creating a local LocomotiveCMS setup
+### Docker files for creating a local LocomotiveCMS engine setup
 
 Basic as sausages, and intended for non-production use.
 
