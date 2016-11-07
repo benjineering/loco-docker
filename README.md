@@ -1,6 +1,8 @@
 # Loco-Docker
 
-### A basic Dockerfile & docker-compose file for creating a local (i.e. non-production) LocomotiveCMS setup
+### Docker files for creating a local LocomotiveCMS setup
+
+Basic as, and intended for non-production use.
 
 Usage:
 `docker-compose up --build`
